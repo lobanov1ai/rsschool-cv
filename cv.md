@@ -26,11 +26,11 @@ I am 26 years old, I work as a QA engineer. I need in activities where I can dev
 ======
 *Skills:*
 
-*Version control: Git
+* Version control: Git
 
-*HTML
+* HTML
 
-*Jira, Youtrack
+* Jira, Youtrack
 
 --------------
 *Code Examples*
@@ -43,14 +43,14 @@ function bmi(weight, height) {
 }
 ----------------------
 *Education*
-*Belarusian National Technical University
-    +Automation of technological processes and productions
+* Belarusian National Technical University
+    + Automation of technological processes and productions
 
 
 ------------------
 
 *Languages*
-Russian - native speaker.
-English - A2 (B1 in process…)
-Be
++ Russian - native speaker.
++ English - A2
+
 
