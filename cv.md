@@ -1,5 +1,5 @@
 Lobanov Artem
-*************
+____________
 
 
 My Contact Info
