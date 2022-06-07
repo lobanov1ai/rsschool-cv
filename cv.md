@@ -32,7 +32,7 @@ function bmi(weight, height) {
 ```
 
 -----------------------------
-*Education*
+*Education:*
 * Belarusian National Technical University
     + Automation of technological processes and productions
     
