@@ -2,20 +2,11 @@ Lobanov Artsiom
 ==================
 
 
-*My Contact Info*
-
-
-Phone: +375-29-263-93-88
-
-
-E-mail:fretsaw77@icloud.com 
-
-
-GitHub: lobanov1ai
-
-
-Telegram: ninexxx9 
-
+*My Contact Info:*
++ Phone: +375-29-263-93-88
++ E-mail:fretsaw77@icloud.com 
++ GitHub: lobanov1ai
++ Telegram: ninexxx9 
 
 ________
 
@@ -34,13 +25,14 @@ I am 26 years old, I work as a QA engineer. I need in activities where I can dev
 
 --------------
 *Code Examples*
-
+```
 function bmi(weight, height) {
 
   const bmi = weight/(height*height);
   
   return bmi <= 18.5 ? 'Underweight': bmi <= 25 ? 'Normal': bmi <= 30 ? 'Overweight': 'Obese';
 }
+```
 ----------------------
 *Education*
 * Belarusian National Technical University
