@@ -21,7 +21,7 @@ I am 26 years old, I work as a QA engineer. I need in activities where I can dev
 * Jira, Youtrack
 
 ----------------------------
-*Code Examples*
+*Code Examples:*
 ```
 function bmi(weight, height) {
 
@@ -37,6 +37,6 @@ function bmi(weight, height) {
     + Automation of technological processes and productions
     
 -----------------
-*Languages*
+*Languages:*
 + Russian - native speaker.
 + English - A2
